@@ -18,8 +18,6 @@ public class CombineRelatedFunctionsIntoClassApp {
         private static void destroy(final Window window) {
 
         }
-
-
     }
 
     public static void main(final String[] args) {
