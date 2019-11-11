@@ -9,7 +9,7 @@ public class RenameVariableApp {
 
         final double height = 1.2;
         final double width = 1.3;
-        // TODO; fix this ... 
+        // TODO; fix this ...
         final double a = height * width;
     }
 
