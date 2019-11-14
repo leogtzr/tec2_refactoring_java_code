@@ -11,10 +11,6 @@ public class ReferenceToAValueApp {
             this.price.amount -= arg;
         }
 
-//        public void applyDiscount(final double arg) {
-//            this.price = new Money(this.price.amount - arg, new Concurrency());
-//        }
-
     }
 
     private static final class Money {
