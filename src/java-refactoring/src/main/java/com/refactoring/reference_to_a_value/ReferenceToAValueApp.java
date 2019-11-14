@@ -6,14 +6,14 @@ public class ReferenceToAValueApp {
         // ...
         private Money price;
 
-//        public void applyDiscount(final double arg) {
-//            // TODO: fix this code ...
-//            this.price.amount -= arg;
-//        }
-
         public void applyDiscount(final double arg) {
-            this.price = new Money(this.price.amount - arg, new Concurrency());
+            // TODO: fix this code ...
+            this.price.amount -= arg;
         }
+
+//        public void applyDiscount(final double arg) {
+//            this.price = new Money(this.price.amount - arg, new Concurrency());
+//        }
 
     }
 
