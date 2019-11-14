@@ -14,10 +14,6 @@ public class DecomposeConditionalApp {
                 //
             }
         }
-
-        private boolean isOld() {
-            return this.age > 70;
-        }
     }
 
     public static void main(final String[] args) {
